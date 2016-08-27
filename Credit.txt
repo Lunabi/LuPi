@@ -1,0 +1,21 @@
+- MenuSound
+  CC BY 3.0
+  Author : Bertrof
+
+- FMOD Studio Low Level API
+  fmod Non Commercial license
+
+- ZLib
+  zlib license
+
+- Heroine Graphic
+  CC BY 3.0
+  Author : Bleed
+
+- Music (Lively Lumpsucker)
+  "Lively Lumpsucker" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 3.0
+  http://creativecommons.org/licenses/by/3.0/
+
+- Music (TAM Music Factory)
+  http://www.tam-music.com/
